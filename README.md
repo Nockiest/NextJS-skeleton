@@ -1,3 +1,7 @@
+# What it is?
+I have made a lot of projects using Next.js, and am a bit lazy pasting the code I reuse constantly into every new project. My sollution was to create this ready-to-use skeleton containg some reusable features. Feel free to use it in your own projects. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 The project has been adjusted slightly to work with Facebook's StyleX (https://stylexjs.com/)
